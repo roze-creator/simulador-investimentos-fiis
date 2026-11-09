@@ -1,0 +1,8 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Temp / OS
+Thumbs.db
+.DS_Store
+cool-planck/
